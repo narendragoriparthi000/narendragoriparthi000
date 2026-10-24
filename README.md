@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A99D,100:5B2CA0&height=4&section=header" width="100%"/>
 
 <!--
 **narendragoriparthi000/narendragoriparthi000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
