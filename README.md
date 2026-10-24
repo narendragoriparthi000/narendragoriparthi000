@@ -52,54 +52,23 @@ const narendra = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,100:0d1117&height=3&section=header" width="100%"/>
 
-<h2 align="center">&lt;/&gt; Tech Arsenal</h2>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**🎨 Frontend Magic**<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-</td>
-<td width="50%" valign="top">
-
-**🛠️ Languages & Tools**<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,100:0d1117&height=3&section=header" width="100%"/>
-
 ## 🚗 Featured Project: Car Travels
 
 A car travel booking website where users can browse cars, choose a destination, and book a ride.
 
-<a href="https://github.com/goriparthinarendra000-alt/car-travels">
+**Tech Stack:**
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+**Features:**
+- Browse available cars and travel packages
+- Easy booking form
+- Responsive design for mobile and desktop
+
+<a href="https://github.com/goriparthinarendra000-alt/YOUR-REPO-NAME">
   <img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://goriparthinarendra000-alt.github.io/car-travels/">
+<a href="https://YOUR-LIVE-LINK.com">
   <img src="https://img.shields.io/badge/LIVE_DEMO-00A99D?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,100:0d1117&height=3&section=header" width="100%"/>
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goriparthinarendra000-alt&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goriparthinarendra000-alt&layout=compact&theme=radical" height="170"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/goriparthinarendra000-alt/goriparthinarendra000-alt/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
