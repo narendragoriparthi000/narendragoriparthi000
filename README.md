@@ -1,7 +1,21 @@
 ## Narendra👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Narendra&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Narendra&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/> ;
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Narendra+👋;Open+Source+Contributor+🔥;Coding+Enthusiast" />
+</div> ;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Narendra&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Open+Source+Contributor+🔥;Coding+Enthusiast" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/narendra26">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:goriparthinarendra000@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 <!--
