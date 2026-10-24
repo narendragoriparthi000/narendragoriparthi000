@@ -1,4 +1,5 @@
 ## Narendra👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Narendra&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <!--
 **narendragoriparthi000/narendragoriparthi000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
